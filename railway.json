@@ -3,6 +3,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "cd backend && gunicorn expense_tracker.wsgi:application"
+    "startCommand": "cd backend && gunicorn backend.wsgi:application"
   }
 }
