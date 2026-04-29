@@ -6,8 +6,8 @@ A minimal full-stack Expense Tracker built with a focus on **correctness under r
 
 ## 🚀 Live Demo
 
-* Frontend: *[Add your Vercel link here]*
-* Backend API: *[Add your Render/Railway link here]*
+* Frontend:https://assessment-one-phi.vercel.app/
+* Backend API: https://assessment-production-eb5a.up.railway.app/
 
 ---
 
